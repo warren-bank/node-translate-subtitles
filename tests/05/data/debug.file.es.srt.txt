@@ -1,0 +1,5 @@
+[
+  "Hola, Mundo",
+  "Soy audaz. Estoy en cursiva. Yo soy rojo.",
+  "Hecho"
+]

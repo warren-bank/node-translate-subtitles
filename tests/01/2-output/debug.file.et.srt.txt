@@ -1,0 +1,5 @@
+[
+  "Tere, maailm",
+  "Ma olen julge. Ma olen kaldkiri. Ma olen punane.",
+  "Tehtud"
+]

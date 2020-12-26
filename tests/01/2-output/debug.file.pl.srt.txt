@@ -1,0 +1,5 @@
+[
+  "Witaj, Świat",
+  "Jestem śmiały. Jestem kursywa. Jestem czerwony.",
+  "Gotowe"
+]

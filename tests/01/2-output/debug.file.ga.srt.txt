@@ -1,0 +1,5 @@
+[
+  "Hello, An Domhan",
+  "Tá mé bold. Tá áthas orm. Tá mé dearg.",
+  "Críochnaithe"
+]

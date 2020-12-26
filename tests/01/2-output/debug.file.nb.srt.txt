@@ -1,0 +1,5 @@
+[
+  "Hallo, World",
+  "Jeg er dristig. Jeg er kursiv. Jeg er rød.",
+  "Ferdig"
+]

@@ -1,0 +1,5 @@
+[
+  "Olá, Mundo",
+  "Eu sou ousado. Eu sou itálico. Eu sou vermelho.",
+  "Feito"
+]

@@ -1,0 +1,5 @@
+[
+  "Pozdravljen, Svet.",
+  "Drzen sem. Italic sem. Rdeča sem.",
+  "Končano."
+]

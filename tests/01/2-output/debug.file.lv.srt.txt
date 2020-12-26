@@ -1,0 +1,5 @@
+[
+  "Sveika, pasaule.",
+  "Es esmu drosmīgs. Es esmu itālija. Es esmu sarkana.",
+  "Paveiktais"
+]

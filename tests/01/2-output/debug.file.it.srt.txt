@@ -1,0 +1,5 @@
+[
+  "Ciao, World",
+  "Sono audace. Sono italic. Sono rosso.",
+  "Fatto"
+]

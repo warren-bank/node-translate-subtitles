@@ -1,0 +1,8 @@
+[
+  "Hello, Foo/Baz",
+  "I am bold. I am italic. I am red. I am English.",
+  "Hi, I'm Bill",
+  "Hi, I'm Ted",
+  "Together, we are \"Wild Stallions\"!",
+  "Done"
+]

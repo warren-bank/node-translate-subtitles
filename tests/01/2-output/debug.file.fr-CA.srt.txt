@@ -1,0 +1,5 @@
+[
+  "Bonjour, Monde",
+  "Je suis hardie. Je suis italique. Je suis rouge.",
+  "Terminé"
+]

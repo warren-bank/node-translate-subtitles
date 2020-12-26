@@ -1,0 +1,69 @@
+WEBVTT
+
+STYLE
+::cue {
+  background-image: linear-gradient(to bottom, dimgray, lightgray);
+  color: papayawhip;
+}
+/* Style blocks cannot use blank lines nor "dash dash greater than" */
+
+NOTE comment blocks can be used between style blocks.
+
+STYLE
+::cue(b) {
+  color: peachpuff;
+}
+
+REGION
+id:bill
+width:40%
+lines:3
+regionanchor:0%,100%
+viewportanchor:10%,90%
+scroll:up
+
+REGION
+id:ted
+width:40%
+lines:3
+regionanchor:100%,100%
+viewportanchor:90%,90%
+scroll:up
+
+cue-identifier-01
+00:00:00.000 --> 00:00:10.000
+Hello,
+World
+
+cue-identifier-02
+00:11.0000 --> 00:20.0000
+<b>I am bold.</b>
+<i>I am italic.</i>
+<font color="red">I am red.</font>
+<i.foreignphrase><lang en>I am English.</lang></i>
+
+NOTE
+This file was written by Jill. I hope
+you enjoy reading it. Some things to
+bear in mind:
+- I was lip-reading, so the cues may
+not be 100% accurate
+- I didn’t pay too close attention to
+when the cues should start or end.
+
+00:21.0000 --> 00:24.0000 region:bill align:left
+<v Bill>Hi, I'm Bill
+
+00:24.0000 --> 00:27.0000 region:ted align:right
+<v Ted>Hi, I'm Ted
+
+00:27.0000 --> 00:30.0000 align:center
+<v.chorus Bill and Ted>Together, we are "Wild Stallions"!
+
+NOTE check next cue
+
+cue-identifier-03
+00:31 --> 00:40
+Done
+
+NOTE end of file

@@ -1,0 +1,5 @@
+[
+  "Hello, Dinja",
+  "I am bold. I am itakku. I am aħmar.",
+  "Magħmul"
+]

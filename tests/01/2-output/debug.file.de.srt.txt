@@ -1,0 +1,5 @@
+[
+  "Hallo, Welt",
+  "Ich bin kühn. Ich bin kursiv. Ich bin rot.",
+  "Fertig"
+]

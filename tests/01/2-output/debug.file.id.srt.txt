@@ -1,0 +1,5 @@
+[
+  "Halo, Dunia",
+  "Aku berani. Saya italic. Aku merah.",
+  "Selesai"
+]

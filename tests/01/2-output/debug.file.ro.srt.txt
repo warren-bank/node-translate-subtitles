@@ -1,0 +1,5 @@
+[
+  "Hello, World",
+  "Sunt îndrăzneț. Eu sunt italic. Sunt rosu.",
+  "Făcut"
+]

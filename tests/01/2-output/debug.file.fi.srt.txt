@@ -1,0 +1,5 @@
+[
+  "Hei, maailma.",
+  "Olen rohkea. Olen italialainen. Olen punainen.",
+  "Tehty"
+]

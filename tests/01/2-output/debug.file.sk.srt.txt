@@ -1,0 +1,5 @@
+[
+  "Ahoj, svet.",
+  "Som odvážny. Ja som kurzíva. Som červená.",
+  "Hotovo"
+]
