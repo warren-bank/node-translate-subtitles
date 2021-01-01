@@ -3,5 +3,6 @@
 .gitignore
 
 node_modules/
-tests/
+recipes/
 specs/
+tests/

@@ -1,0 +1,27 @@
+--------------------------------------------------------------------------------
+
+https://www.imdb.com/title/tt0108992/episodes?season=1
+  episodes in TV series: Wycliffe
+
+--------------------------------------------------------------------------------
+
+https://www.opensubtitles.org/en/ssearch/sublanguageid-eng/idmovie-176444
+  subtitles for TV series: Wycliffe
+  language: english (en)
+  availability: 0/37
+
+https://www.opensubtitles.org/en/ssearch/sublanguageid-dut/idmovie-176444
+  subtitles for TV series: Wycliffe
+  language: dutch (nl)
+  availability: 37/37
+
+--------------------------------------------------------------------------------
+
+// JS console script to extract URLs to download whole seasons (one season per zip archive)
+
+{
+  const links = [...document.querySelectorAll('a[href^="/download/s/sublanguageid-dut/pimdbid-"]')].map(a => a.href)
+  console.log( links.join("\n") )
+}
+
+--------------------------------------------------------------------------------
