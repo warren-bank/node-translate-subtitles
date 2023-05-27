@@ -1,6 +1,6 @@
 {
   "name": "@warren-bank/translate-subtitles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/process_cli.js",
   "description": "Command-line utility to use the IBM Watson Language Translator service to translate subtitle text files.",
   "license": "GPL-2.0",
@@ -8,7 +8,8 @@
     "translate-subtitles": "bin/translate-subtitles.js"
   },
   "dependencies": {
-    "@warren-bank/ibm-watson-language-translator": "^1.0.0",
+    "@warren-bank/ibm-watson-language-translator": "^1.1.0",
+    "@warren-bank/mkdir-sync": "^1.0.2",
     "@warren-bank/node-process-argv": "^1.1.0"
   },
   "author": {

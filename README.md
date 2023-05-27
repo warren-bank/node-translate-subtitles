@@ -197,11 +197,6 @@ language codes:
    - recurse into input subdirectories
    - save translations in different output directory with mirroring
 
-#### Dependencies:
-
-* Node.js v10.12.0 or higher
-  - `--mirror-input-dirs` uses the _recursive_ option for [`fs.mkdirSync`](https://nodejs.org/api/fs.html#fs_fs_mkdirsync_path_options)
-
 #### Legal:
 
 * copyright: [Warren Bank](https://github.com/warren-bank)
