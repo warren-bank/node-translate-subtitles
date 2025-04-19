@@ -1,5 +1,5 @@
 [
-  "Hello, An Domhan",
-  "Tá mé bold. Tá áthas orm. Tá mé dearg.",
-  "Críochnaithe"
+  "Dia duit, Domhanda",
+  "Tá mé trom. Is maith liom é Tá mé dearg.",
+  "Arna dhéanamh in Strasbourg"
 ]

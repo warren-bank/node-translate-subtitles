@@ -1,11 +1,11 @@
 1
 00:00:01,0000 --> 00:00:10,0000
-Hello, World
+Hej, World
 
 2
 00:11,0000 --> 00:20,0000
-Jeg er dristig. Jeg er italic. Jeg er rød.
+Jeg er modig. Jeg er kursiv. Jeg er rød.
 
 3
 00:21 --> 00:30
-Udført
+Færdig

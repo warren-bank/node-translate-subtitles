@@ -1,5 +1,5 @@
 [
-  "Witaj, Świat",
-  "Jestem śmiały. Jestem kursywa. Jestem czerwony.",
+  "Witaj, świecie",
+  "Jestem odważna. Jestem Włochem. Jestem czerwony.",
   "Gotowe"
 ]

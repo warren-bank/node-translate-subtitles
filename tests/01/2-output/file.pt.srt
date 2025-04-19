@@ -4,7 +4,7 @@ Olá, Mundo
 
 2
 00:11,0000 --> 00:20,0000
-Eu sou ousado. Eu sou itálico. Eu sou vermelho.
+Sou ousada. Sou itálico. Sou vermelho.
 
 3
 00:21 --> 00:30

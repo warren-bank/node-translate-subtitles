@@ -1,10 +1,10 @@
 1
 00:00:01,0000 --> 00:00:10,0000
-Ciao, World
+Ciao, Mondo
 
 2
 00:11,0000 --> 00:20,0000
-Sono audace. Sono italic. Sono rosso.
+Sono audace. Sono italico. Sono rosso.
 
 3
 00:21 --> 00:30

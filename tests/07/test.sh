@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-# declare variables "IBM_TRANSLATOR_API_KEY" and "IBM_TRANSLATOR_API_URL"
-source "${HOME}/IBM_TRANSLATOR_API_CREDENTIALS.sh"
-
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+# declare variables "LIBRE_TRANSLATE_API_KEY" and "LIBRE_TRANSLATE_API_URL"
+source "${DIR}/../LIBRE_TRANSLATE_API_CREDENTIALS.sh"
 
 function translate-subtitles {
   node "${DIR}/../../bin/translate-subtitles.js" "$@"
@@ -16,4 +16,4 @@ log_file="${output_path}/test.log"
 [ -d "$output_path" ] && rm -rf "$output_path"
 mkdir -p "$output_path"
 
-translate-subtitles -i 'en' -o 'ru' -I "$input_path" -O "$output_path" -r -m -d >"$log_file" 2>&1
+translate-subtitles -i 'en' -o 'ru' -I "$input_path" -O "$output_path" -r -m --nr --nb -d >"$log_file" 2>&1

@@ -1,11 +1,11 @@
 1
 00:00:01,0000 --> 00:00:10,0000
-Pozdravljen, Svet.
+Zdravo, svet
 
 2
 00:11,0000 --> 00:20,0000
-Drzen sem. Italic sem. Rdeča sem.
+Drzna sem. Jaz sem poševno. Jaz sem rdeča.
 
 3
 00:21 --> 00:30
-Končano.
+Opravljeno

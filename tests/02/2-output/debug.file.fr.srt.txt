@@ -1,5 +1,5 @@
 [
   "Bonjour, Monde",
-  "Je suis en gras. Je suis en italique. Je suis rouge.",
-  "Terminé"
+  "Je suis audacieux. Je suis en italique. Je suis rouge.",
+  "Fait"
 ]

@@ -1,5 +1,5 @@
 [
-  "Pozdravljen, Svet.",
-  "Drzen sem. Italic sem. Rdeča sem.",
-  "Končano."
+  "Zdravo, svet",
+  "Drzna sem. Jaz sem poševno. Jaz sem rdeča.",
+  "Opravljeno"
 ]

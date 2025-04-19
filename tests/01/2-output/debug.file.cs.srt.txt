@@ -1,5 +1,5 @@
 [
-  "Ahoj světe",
-  "Jsem odvážný. Jsem kurzíva. Jsem červená.",
-  "Provedeno"
+  "Ahoj, World",
+  "Jsem odvážný. Jsem kurýr. Jsem červená.",
+  "Hotovo"
 ]

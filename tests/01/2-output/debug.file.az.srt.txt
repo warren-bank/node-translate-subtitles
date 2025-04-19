@@ -1,0 +1,5 @@
+[
+  "Salam, Dünya",
+  "Mən güclü. I am italic. Mən qırmızı.",
+  "Axtar"
+]

@@ -1,5 +1,5 @@
 [
   "Halo, Dunia",
-  "Aku berani. Saya italic. Aku merah.",
+  "Aku berani. Aku orang Italia. Aku merah.",
   "Selesai"
 ]

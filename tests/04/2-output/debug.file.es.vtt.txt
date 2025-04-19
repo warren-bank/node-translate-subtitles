@@ -1,8 +1,8 @@
 [
-  "Hola, Mundo",
-  "Soy audaz. Estoy en cursiva. Yo soy rojo. I am English.",
-  "Hola, Soy Bill",
+  "Hola, World",
+  "Soy audaz. Soy itálica. Soy rojo. Soy inglés.",
+  "Hola, soy Bill",
   "Hola, soy Ted",
-  "Juntos, somos \"Stallions salvajes\"!",
+  "¡Juntos, somos \"Stalones Salvados\"!",
   "Hecho"
 ]

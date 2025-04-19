@@ -1,11 +1,11 @@
 1
 00:00:01,0000 --> 00:00:10,0000
-Hello, Dinja
+Hola Mundo
 
 2
 00:11,0000 --> 00:20,0000
-I am bold. I am itakku. I am aħmar.
+Estou atrevida. Eu son italiano. Estou vermello.
 
 3
 00:21 --> 00:30
-Magħmul
+Feito

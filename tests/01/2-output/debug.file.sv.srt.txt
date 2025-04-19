@@ -1,5 +1,5 @@
 [
-  "Hej, världen.",
-  "Jag är djärv. Jag är kursiv. Jag är röd.",
-  "Gjort"
+  "Hej, världen",
+  "Jag är djärv. Jag är italic. Jag är röd.",
+  "Done"
 ]

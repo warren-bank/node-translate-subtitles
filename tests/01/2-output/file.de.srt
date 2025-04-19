@@ -4,8 +4,8 @@ Hallo, Welt
 
 2
 00:11,0000 --> 00:20,0000
-Ich bin kühn. Ich bin kursiv. Ich bin rot.
+Ich bin mutig. Ich bin italienisch. Ich bin rot.
 
 3
 00:21 --> 00:30
-Fertig
+Artikel 2

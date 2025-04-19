@@ -4,8 +4,8 @@ Merhaba, Dünya
 
 2
 00:11,0000 --> 00:20,0000
-Ben cesur biriyim. İtalik oldum. Ben kırmızıyım.
+Ben cesurum. Ben bualikim. Ben kırmızıyım.
 
 3
 00:21 --> 00:30
-Bitti
+Done

@@ -1,5 +1,0 @@
-[
-  "Zdravo, Svijete.",
-  "Ja sam hrabar. Ja sam italik. Ja sam crvena.",
-  "Završeno"
-]

@@ -1,11 +1,11 @@
 1
 00:00:01,0000 --> 00:00:10,0000
-Hej, världen.
+Hej, världen
 
 2
 00:11,0000 --> 00:20,0000
-Jag är djärv. Jag är kursiv. Jag är röd.
+Jag är djärv. Jag är italic. Jag är röd.
 
 3
 00:21 --> 00:30
-Gjort
+Done

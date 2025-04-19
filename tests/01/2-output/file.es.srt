@@ -1,10 +1,10 @@
 1
 00:00:01,0000 --> 00:00:10,0000
-Hola, Mundo
+Hola, World
 
 2
 00:11,0000 --> 00:20,0000
-Soy audaz. Estoy en cursiva. Yo soy rojo.
+Soy audaz. Soy itálica. Soy rojo.
 
 3
 00:21 --> 00:30

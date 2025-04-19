@@ -1,0 +1,5 @@
+[
+  "Hola, món",
+  "Sóc agosarat. Sóc cursiva. Sóc vermell.",
+  "Fet"
+]

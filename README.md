@@ -1,6 +1,6 @@
 ### [translate-subtitles](https://github.com/warren-bank/node-translate-subtitles)
 
-Command-line utility to use the IBM Watson&trade; Language Translator service to translate subtitle text files.
+Command-line utility to use the [LibreTranslate&trade;](https://github.com/LibreTranslate/LibreTranslate) service to translate subtitle text files.
 
 #### Features:
 
@@ -14,9 +14,19 @@ Command-line utility to use the IBM Watson&trade; Language Translator service to
 
 #### Requirements:
 
-* an [IBM Cloud account](https://github.com/warren-bank/node-ibm-watson-language-translator/blob/master/.etc/docs/IBM-Cloud-account.md)
+* access to a server hosting the [LibreTranslate server API](https://github.com/LibreTranslate/LibreTranslate#mirrors)
   - API key
   - API URL
+
+#### Supported Languages
+
+* a real-time JSON array of supported language objects is returned from the [API](https://libretranslate.com/docs) endpoint: [`/languages`](https://libretranslate.com/languages)
+* [this table](https://github.com/warren-bank/node-libre-language-translator#supported-languages) summarizes its response
+  - results may vary:
+    * over time
+    * per server
+  - when the `--output-language` option is not specified:
+    * a real-time list is obtained of all supported output languages for the specified input language at the specified [LibreTranslate server API](https://github.com/LibreTranslate/LibreTranslate#mirrors)
 
 #### Installation:
 
@@ -41,13 +51,14 @@ options:
 
 "-k" <key>
 "--api-key" <key>
-    [optional] IBM Cloud account API key.
-    Default: Value is read from "IBM_TRANSLATOR_API_KEY" environment variable.
+    [optional] LibreTranslate server API key.
+    Fallback: Value of the "LIBRE_TRANSLATE_API_KEY" environment variable, if one exists.
 
 "-u" <url>
 "--api-url" <url>
-    [optional] IBM Cloud account API URL.
-    Default: Value is read from "IBM_TRANSLATOR_API_URL" environment variable.
+    [optional] LibreTranslate server API URL.
+    Fallback: Value of the "LIBRE_TRANSLATE_API_URL" environment variable, if one exists.
+    Default: "https://libretranslate.com"
 
 "-i" <language>
 "--input-language" <language>
@@ -87,6 +98,19 @@ options:
     Precondition: Input path recursion is enabled.
     Default: disabled
 
+"--nr"
+"--no-replace"
+"--no-clobber"
+    [optional] Skip output languages for which the output file already exists.
+    Default: Disabled. Overwrite if exists.
+
+"--nb"
+"--no-break"
+"--no-break-on-error"
+    [optional] When translating multiple output languages and one encounters an error,
+               print a log statement and continue processing the remaining output languages.
+    Default: Disabled. The library throws an error, and the command-line utility exits with code.
+
 "-d"
 "--debug"
     [optional] Writes raw data files to output directory.
@@ -97,65 +121,6 @@ options:
           - file with the input language code contains the list of parsed strings
           - file with an output language code contains the list of translated strings
     Default: disabled
-
-language codes:
-===============
-  "ar"    Arabic
-  "eu"    Basque [1]
-  "bn"    Bengali
-  "bs"    Bosnian
-  "bg"    Bulgarian
-  "ca"    Catalan [1]
-  "zh"    Chinese (Simplified)
-  "zh-TW" Chinese (Traditional)
-  "hr"    Croatian
-  "cs"    Czech
-  "da"    Danish
-  "nl"    Dutch
-  "en"    English
-  "et"    Estonian
-  "fi"    Finnish
-  "fr"    French
-  "fr-CA" French (Canadian)
-  "de"    German
-  "el"    Greek
-  "gu"    Gujarati
-  "he"    Hebrew
-  "hi"    Hindi
-  "hu"    Hungarian
-  "ga"    Irish
-  "id"    Indonesian
-  "it"    Italian
-  "ja"    Japanese
-  "ko"    Korean
-  "lv"    Latvian
-  "lt"    Lithuanian
-  "ms"    Malay
-  "ml"    Malayalam
-  "mt"    Maltese
-  "cnr"   Montenegrin
-  "ne"    Nepali
-  "nb"    Norwegian Bokmål
-  "pl"    Polish
-  "pt"    Portuguese
-  "ro"    Romanian
-  "ru"    Russian
-  "sr"    Serbian
-  "si"    Sinhala
-  "sk"    Slovak
-  "sl"    Slovenian
-  "es"    Spanish
-  "sv"    Swedish
-  "ta"    Tamil
-  "te"    Telugu
-  "th"    Thai
-  "tr"    Turkish
-  "uk"    Ukrainian
-  "ur"    Urdu
-  "vi"    Vietnamese
-  "cy"    Welsh
-
-[1] Basque and Catalan are supported only for translation to and from Spanish.
 ```
 
 #### Examples:

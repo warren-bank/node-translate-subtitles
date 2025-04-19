@@ -1,10 +1,10 @@
 1
 00:00:01,0000 --> 00:00:10,0000
-Helló, világ!
+Helló, Világ
 
 2
 00:11,0000 --> 00:20,0000
-Merész vagyok. Olasz vagyok. Vörös vagyok.
+Merész vagyok. Italikus vagyok. Vörös vagyok.
 
 3
 00:21 --> 00:30

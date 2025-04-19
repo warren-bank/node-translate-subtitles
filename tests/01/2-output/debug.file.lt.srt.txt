@@ -1,5 +1,5 @@
 [
-  "Sveiki, Pasaulio",
-  "Aš esu drąsus. Aš kursyvas. Aš raudonas.",
-  "Priimta"
+  "Labas, Pasaulis",
+  "Esu drąsus. Aš kursyvas. Aš raudonas.",
+  "Atlikta"
 ]

@@ -1,0 +1,5 @@
+[
+  "Hello, Daigdig",
+  "Ako'y matapang. Ako po'y may diperensiya. Ako ay pula.",
+  "Tapos"
+]

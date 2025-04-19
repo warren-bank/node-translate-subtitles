@@ -1,5 +1,5 @@
 [
-  "Ciao, World",
-  "Sono audace. Sono italic. Sono rosso.",
+  "Ciao, Mondo",
+  "Sono audace. Sono italico. Sono rosso.",
   "Fatto"
 ]

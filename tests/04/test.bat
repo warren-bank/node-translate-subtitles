@@ -1,9 +1,10 @@
 @echo off
 
-rem :: declare variables "IBM_TRANSLATOR_API_KEY" and "IBM_TRANSLATOR_API_URL"
-call "%USERPROFILE%\IBM_TRANSLATOR_API_CREDENTIALS.bat"
-
 set DIR=%~dp0.
+
+rem :: declare variables "LIBRE_TRANSLATE_API_KEY" and "LIBRE_TRANSLATE_API_URL"
+call "%DIR%\..\LIBRE_TRANSLATE_API_CREDENTIALS.bat"
+
 goto :start
 
 :translate-subtitles
@@ -18,4 +19,4 @@ set log_file=%output_path%\test.log
 if exist "%output_path%" rmdir /Q /S "%output_path%"
 mkdir "%output_path%"
 
-call :translate-subtitles -i "en" -o "es" -I "%input_path%" -O "%output_path%" -d >"%log_file%" 2>&1
+call :translate-subtitles -i "en" -o "es" -I "%input_path%" -O "%output_path%" --nr --nb -d >"%log_file%" 2>&1

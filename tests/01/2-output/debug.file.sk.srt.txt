@@ -1,5 +1,5 @@
 [
-  "Ahoj, svet.",
-  "Som odvážny. Ja som kurzíva. Som červená.",
+  "Zdravím, svet",
+  "Som odvážny. Som kurzívou. Som červená.",
   "Hotovo"
 ]

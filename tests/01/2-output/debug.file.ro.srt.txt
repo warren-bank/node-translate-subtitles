@@ -1,5 +1,5 @@
 [
-  "Hello, World",
-  "Sunt îndrăzneț. Eu sunt italic. Sunt rosu.",
-  "Făcut"
+  "Bună ziua, lume",
+  "Sunt îndrăzneţ. Sunt italian. Sunt roşu.",
+  "Gata"
 ]

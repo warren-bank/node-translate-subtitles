@@ -1,5 +1,0 @@
-[
-  "Jedan pozdrav, Svet.",
-  "Ja sam odvažan. Ja sam Italik. Jedna mi je crvena.",
-  "Gotovo."
-]

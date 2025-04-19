@@ -1,11 +1,11 @@
 1
 00:00:01,0000 --> 00:00:10,0000
-Jedan pozdrav, Svet.
+Përshëndetje, botë
 
 2
 00:11,0000 --> 00:20,0000
-Ja sam odvažan. Ja sam Italik. Jedna mi je crvena.
+Jam i guximshëm. Jam i çmendur. Jam i kuq.
 
 3
 00:21 --> 00:30
-Gotovo.
+U plotësua

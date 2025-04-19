@@ -1,5 +1,5 @@
 [
-  "Helló, világ!",
-  "Merész vagyok. Olasz vagyok. Vörös vagyok.",
+  "Helló, Világ",
+  "Merész vagyok. Italikus vagyok. Vörös vagyok.",
   "Kész"
 ]

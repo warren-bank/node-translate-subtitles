@@ -1,11 +1,11 @@
 1
 00:00:01,0000 --> 00:00:10,0000
-Sveiki, Pasaulio
+Labas, Pasaulis
 
 2
 00:11,0000 --> 00:20,0000
-Aš esu drąsus. Aš kursyvas. Aš raudonas.
+Esu drąsus. Aš kursyvas. Aš raudonas.
 
 3
 00:21 --> 00:30
-Priimta
+Atlikta

@@ -1,5 +1,5 @@
 [
-  "Hei, maailma.",
-  "Olen rohkea. Olen italialainen. Olen punainen.",
-  "Tehty"
+  "Hei, maailma",
+  "Olen rohkea. Olen kursivoinut. Olen punainen.",
+  "Valmis"
 ]

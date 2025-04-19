@@ -1,11 +1,11 @@
 1
 00:00:01,0000 --> 00:00:10,0000
-Hallo, wereld
+Hallo, World
 
 2
 00:11,0000 --> 00:20,0000
-Ik ben stoutmoedig. Ik ben cursief. Ik ben rood.
+Ik ben dapper. Ik ben cursief. Ik ben rood.
 
 3
 00:21 --> 00:30
-Gereed
+Klaar

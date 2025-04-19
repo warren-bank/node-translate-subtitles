@@ -1,5 +1,5 @@
 [
-  "Hola, Mundo",
-  "Soy audaz. Estoy en cursiva. Yo soy rojo.",
+  "Hola, World",
+  "Soy audaz. Soy itálica. Soy rojo.",
   "Hecho"
 ]

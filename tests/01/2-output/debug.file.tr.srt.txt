@@ -1,5 +1,5 @@
 [
   "Merhaba, Dünya",
-  "Ben cesur biriyim. İtalik oldum. Ben kırmızıyım.",
-  "Bitti"
+  "Ben cesurum. Ben bualikim. Ben kırmızıyım.",
+  "Done"
 ]

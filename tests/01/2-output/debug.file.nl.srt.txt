@@ -1,5 +1,5 @@
 [
-  "Hallo, wereld",
-  "Ik ben stoutmoedig. Ik ben cursief. Ik ben rood.",
-  "Gereed"
+  "Hallo, World",
+  "Ik ben dapper. Ik ben cursief. Ik ben rood.",
+  "Klaar"
 ]

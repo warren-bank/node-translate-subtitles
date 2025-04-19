@@ -1,11 +1,11 @@
 1
 00:00:01,0000 --> 00:00:10,0000
-Hei, maailma.
+Hei, maailma
 
 2
 00:11,0000 --> 00:20,0000
-Olen rohkea. Olen italialainen. Olen punainen.
+Olen rohkea. Olen kursivoinut. Olen punainen.
 
 3
 00:21 --> 00:30
-Tehty
+Valmis

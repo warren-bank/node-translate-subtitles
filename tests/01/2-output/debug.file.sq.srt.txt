@@ -1,0 +1,5 @@
+[
+  "Përshëndetje, botë",
+  "Jam i guximshëm. Jam i çmendur. Jam i kuq.",
+  "U plotësua"
+]

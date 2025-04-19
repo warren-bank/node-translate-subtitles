@@ -1,5 +1,0 @@
-[
-  "Chào, World",
-  "Tôi táo bạo. Tôi là người in nghiêng. Tôi đỏ.",
-  "Đã xong"
-]

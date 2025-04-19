@@ -1,5 +1,5 @@
 [
-  "Hello, World",
-  "Jeg er dristig. Jeg er italic. Jeg er rød.",
-  "Udført"
+  "Hej, World",
+  "Jeg er modig. Jeg er kursiv. Jeg er rød.",
+  "Færdig"
 ]

@@ -1,5 +1,5 @@
 [
   "Hallo, Welt",
-  "Ich bin kühn. Ich bin kursiv. Ich bin rot.",
-  "Fertig"
+  "Ich bin mutig. Ich bin italienisch. Ich bin rot.",
+  "Artikel 2"
 ]

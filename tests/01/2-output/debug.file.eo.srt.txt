@@ -1,0 +1,5 @@
+[
+  "Saluton, mondo",
+  "Mi estas kuraĝa. Mi estas kursiva. Mi estas ruĝa.",
+  "Done"
+]
